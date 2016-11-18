@@ -1,4 +1,4 @@
-# Boost-Compression-Calc
+# Boost Compression Calculator
 Turbo Boost &amp; Compression Calculator
 
 Welcome to my boost and compression calculator. This software was originally
